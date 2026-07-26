@@ -1,0 +1,4 @@
+interface:
+  display_name: "ZCV Draft Writer"
+  short_description: "Write turn-based ZCV drafts with citation-key rules."
+  default_prompt: "Use zcv-draft-writer to edit the current draft-turn-N.md while preserving citation and References consistency."

@@ -1,0 +1,15 @@
+{
+  "manifest_version": 2,
+  "name": "Codex Zotero Bridge",
+  "version": "0.1.0",
+  "description": "Localhost bridge for adding existing Zotero items to an existing collection.",
+  "homepage_url": "https://example.com/codex-zotero-bridge",
+  "applications": {
+    "zotero": {
+      "id": "codex-zotero-bridge@codex.example.com",
+      "update_url": "https://example.com/codex-zotero-bridge/updates.json",
+      "strict_min_version": "7.0",
+      "strict_max_version": "9.*"
+    }
+  }
+}
